@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColeccionMusicaCine>
+    <Disco nombre="3 disco de xxx">
+        <Pelicula>
+            <Titulo>Inception</Titulo>
+            <Director>Christopher Nolan</Director>
+        </Pelicula>
+        <Compositor>Hans Zimmer</Compositor>
+        <AnioComposicion>2010</AnioComposicion>
+        <Premios>
+            <Premio>Academy Award Nominee for Best Original Score</Premio>
+            <Premio>BAFTA Award for Best Film Music</Premio>
+        </Premios>
+        <FormatoCompresion>FLAC</FormatoCompresion>
+    </Disco>
+    <Disco>
+        <Pelicula>
+            <Titulo>The Lord of the Rings: The Fellowship of the Ring</Titulo>
+            <Director>Peter Jackson</Director>
+        </Pelicula>
+        <Compositor>Howard Shore</Compositor>
+        <AnioComposicion>2001</AnioComposicion>
+        <Premios>
+            <Premio>Academy Award for Best Original Score</Premio>
+            <Premio>Grammy Award for Best Score Soundtrack Album</Premio>
+        </Premios>
+        <FormatoCompresion>MP3</FormatoCompresion>
+    </Disco>
+</ColeccionMusicaCine>

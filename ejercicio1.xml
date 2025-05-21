@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion>
+    <albumes>
+        <album>
+            <fotografia>
+                <lugar_foto>Berlin</lugar_foto>
+                <fecha_creacion>01/02/2024
+                    <hora>16:35</hora>
+                </fecha_creacion>
+                <tipo_camara>Nikon ABC</tipo_camara>
+                <personas>Cristina, Alberto y Natalia</personas>
+                <monumento>Plaza</monumento>
+            </fotografia>
+            <fotografia>
+                <lugar_foto>Gante</lugar_foto>
+                <fecha_creacion>12/04/2024
+                    <hora>20:02</hora>
+                </fecha_creacion>
+                <tipo_camara>Nikon ABC</tipo_camara>
+                <personas>Natalia</personas>
+                <monumento>Catedral</monumento>
+            </fotografia>
+            <fotografia>
+                <lugar_foto>Gante</lugar_foto>
+                <fecha_creacion>12/04/2024
+                    <hora>18:15</hora>
+                </fecha_creacion>
+                <tipo_camara>Nikon ABC</tipo_camara>
+                <personas>Andres</personas>
+                <monumento>Plaza</monumento>
+            </fotografia>
+        </album>
+        <album>
+            <fotografia>
+                <lugar_foto>Venecia</lugar_foto>
+                <fecha_creacion>20/08/2023
+                    <hora>09:46</hora>
+                </fecha_creacion>
+                <tipo_camara>Nikon ABC</tipo_camara>
+                <personas>Belen y Carmen</personas>
+                <monumento>Puente Rialto</monumento>
+            </fotografia>
+            <fotografia>
+                <lugar_foto>Venecia</lugar_foto>
+                <fecha_creacion>21/08/2023
+                    <hora>15:35</hora>
+                </fecha_creacion>
+                <tipo_camara>Nikon ABC</tipo_camara>
+                <personas>Carmen</personas>
+                <monumento>Gondola</monumento>
+            </fotografia>
+        </album>
+    </albumes>   
+</coleccion>

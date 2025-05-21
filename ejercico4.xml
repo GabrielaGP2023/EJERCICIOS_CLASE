@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curso [
+  <!ELEMENT curso (nombre, descripcion?, (profesor | tutor)+, modulo*)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT descripcion (#PCDATA)>
+  <!ELEMENT profesor (#PCDATA)>
+  <!ELEMENT tutor (#PCDATA)>
+  <!ELEMENT modulo (titulo, leccion+)>
+  <!ELEMENT titulo (#PCDATA)>
+  <!ELEMENT leccion (#PCDATA)>
+]>
+<curso>
+    <nombre>Curso de Bases de Datos</nombre>
+    <descripcion>Aprende a diseñar, consultar y optimizar bases de datos.</descripcion>
+    <profesor>Laura Gómez</profesor>
+    <profesor>David Ramírez</profesor>
+    <modulo>
+        <titulo>Módulo 1: Introducción</titulo>
+        <leccion>¿Qué es una base de datos?</leccion>
+        <leccion>Tipos de bases de datos</leccion>
+    </modulo>
+    <modulo>
+        <titulo>Módulo 2: SQL Básico</titulo>
+        <leccion>Consultas SELECT</leccion>
+        <leccion>Filtrado con WHERE</leccion>
+    </modulo>
+</curso>
